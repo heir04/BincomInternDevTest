@@ -1,0 +1,14 @@
+C:\Users\Ismail\Desktop\BincomDevTest\bin\Debug\net8.0\BincomDevTest.exe
+C:\Users\Ismail\Desktop\BincomDevTest\bin\Debug\net8.0\BincomDevTest.deps.json
+C:\Users\Ismail\Desktop\BincomDevTest\bin\Debug\net8.0\BincomDevTest.runtimeconfig.json
+C:\Users\Ismail\Desktop\BincomDevTest\bin\Debug\net8.0\BincomDevTest.dll
+C:\Users\Ismail\Desktop\BincomDevTest\bin\Debug\net8.0\BincomDevTest.pdb
+C:\Users\Ismail\Desktop\BincomDevTest\obj\Debug\net8.0\BincomDevTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismail\Desktop\BincomDevTest\obj\Debug\net8.0\BincomDevTest.AssemblyInfoInputs.cache
+C:\Users\Ismail\Desktop\BincomDevTest\obj\Debug\net8.0\BincomDevTest.AssemblyInfo.cs
+C:\Users\Ismail\Desktop\BincomDevTest\obj\Debug\net8.0\BincomDevTest.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\BincomDevTest\obj\Debug\net8.0\BincomDevTest.dll
+C:\Users\Ismail\Desktop\BincomDevTest\obj\Debug\net8.0\refint\BincomDevTest.dll
+C:\Users\Ismail\Desktop\BincomDevTest\obj\Debug\net8.0\BincomDevTest.pdb
+C:\Users\Ismail\Desktop\BincomDevTest\obj\Debug\net8.0\BincomDevTest.genruntimeconfig.cache
+C:\Users\Ismail\Desktop\BincomDevTest\obj\Debug\net8.0\ref\BincomDevTest.dll
